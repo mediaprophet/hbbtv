@@ -42,3 +42,8 @@
 ## Videos
 
 - http://av-standard.irt.de/wiki/index.php/Referenzclips
+
+## Resource
+
+- https://github.com/Samsung/HbbPlayer 
+
